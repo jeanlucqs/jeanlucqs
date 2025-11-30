@@ -1,25 +1,39 @@
-# Atividades Programação de Sistemas para Internet - 2024
+# 👋 Olá, Eu sou Jean!
 
-Esse é o repositório base para as tarefas da disciplina de PSI.
+Me formando como **Técnico Informática para Internet**, vidrado em tecnologia e desenvolvimento de software. Atualmente, busco me especializar em **Dados e Web**.
 
-## Instruções
+## Habilidades
 
-- Se não tiver, crie uma conta no Github com um usuário "sério" que você vai utilizar por toda a disciplina (e até depois). Configure pelo menos nome e sobrenome na sua conta do Github.
-- Crie um *fork* desse repositório;
-- Siga a instruções para cada tarefa, realizando os *commits* e criando *releases* quando indicado, e enviando o projeto local para o Github com um `push`. Utilizarei essas informações para correção das tarefas.
-- Os `commits` devem ser realizados dentro do prazo indicado.
-- **ATENÇÃO** Configure o *user* e *email* corretos (igual ao github) no Git do PC que estiver utilizando, só considerarei os *commits* do seu usuário.
-- Clone o repositório em cada PC que for trabalhar. Lembre-se realizar um `git pull` sempre que mudar de PC para baixar as atualizações que tenham sido feitas em outros locais.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://shields.io/badge/supabase-black?logo=supabase&style=for-the-badge)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
-## Tarefa 01 - Criação do Ambiente
-**Prazo**: 05/04/2024
 
-- Crie seu *fork* e clone o seu repositório do Github para sua máquina de trabalho;
-- Crie um arquivo `.gitignore` ignorando o diretório `venv`;
-- Crie e ative o *virtualenv*;
-- Instale o pacote *django*;
-- Crie o arquivo `requirements.txt`;
-- Crie uma nova pasta e inicialize um projeto Django, de acordo com o slide 14 da aula 04 ([link](https://dvcirilo.github.io/psi-ifrn/build/aula04.html#14))
-- Faça o commit com uma mensagem informando da criação do projeto base;
-- Faça o *push* para seu Github.
+## Ferramentas 
+
+![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
+
+## Contato
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jeanlucqs)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeanlucasdev)
+
+
+## Em Desenvolvimento
+
+📚 Atualmente, estou iniciando um curso de **Python para Análise e Engenharia de Dados** para aprimorar minhas habilidades em manipulação de dados, visualização, automação de processos e análise estatística.
+
+Sinta-se à vontade para explorar meus repositórios e projetos. Estou sempre aberto a colaborar e aprender coisas novas!
