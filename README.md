@@ -20,6 +20,9 @@ Me formando como **Técnico Informática para Internet**, vidrado em tecnologia 
 ![Material-UI](https://img.shields.io/badge/Material%20UI-%23FFFFFF?style=for-the-badge&logo=MUI&logoColor=#007FF)
 ![Shadcn](https://img.shields.io/badge/shadcn/ui-%23000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Portainer](https://img.shields.io/badge/portainer-%2313BEF9.svg?style=for-the-badge&logo=portainer&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![TraefikProxy](https://img.shields.io/badge/Traefik-%252300314b.svg?style=for-the-badge&logo=traefikproxy&logoColor=white)
 
 
 
@@ -31,6 +34,7 @@ Me formando como **Técnico Informática para Internet**, vidrado em tecnologia 
 ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
+![Warp](https://img.shields.io/badge/warp-%2301A4FF?style=for-the-badge&logo=warp&logoColor=white)
 
 ## Contato
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jeanlucqs)
